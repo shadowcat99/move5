@@ -13,7 +13,7 @@
             <field name="OP">MULTIPLY</field>
             <value name="A">
               <block type="math_arithmetic" id="36" inline="true">
-                <field name="OP">ADD</field>
+                <field name="OP">MINUS</field>
                 <value name="A">
                   <block type="math_random" id="113"></block>
                 </value>
@@ -38,7 +38,7 @@
                 <field name="OP">MULTIPLY</field>
                 <value name="A">
                   <block type="math_arithmetic" id="38" inline="true">
-                    <field name="OP">ADD</field>
+                    <field name="OP">MINUS</field>
                     <value name="A">
                       <block type="math_random" id="126"></block>
                     </value>
